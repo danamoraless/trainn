@@ -20,21 +20,17 @@ Identificar qué características de los pasajeros (sexo, clase, edad, compañí
 
 ## Instalación
 
-```bash
-git clone URL_DEL_REPOSITORIO
-cd titanic-analisis
+
+git clone https://github.com/danamoraless/trainn
+cd train
 python -m venv .venv
-```
+
 
 Activar el entorno virtual:
 
-```bash
-# Windows
-.venv\Scripts\activate
 
-# macOS / Linux
 source .venv/bin/activate
-```
+
 
 Instalar las dependencias:
 
