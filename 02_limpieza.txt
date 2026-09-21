@@ -1,0 +1,6 @@
+=== LIMPIEZA Y PREPROCESAMIENTO ===
+Age: 177 valores imputados con la mediana por Sex y Pclass.
+Cabin: 687 faltantes; se crea TieneCabina y Deck y se elimina la columna original.
+Embarked: 2 valores imputados con la moda ('S').
+Transformaciones: Sex y Embarked con etiquetas legibles; se añade Survived_label.
+Valores faltantes tras la limpieza: 0
